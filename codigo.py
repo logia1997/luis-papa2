@@ -1,4 +1,4 @@
-nombre= "Dartallan2 "
+nombre= "Dartallan22"
 apellido ="carvallo"
 
 saludo="hola "+nombre+" "+apellido
